@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IoFile", "IoFile.vcxproj", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IoFileWithPath", "..\IoFileWithPath\IoFileWithPath.vcxproj", "{7B2C32B0-2413-44E5-8B2D-06E19E596D31}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ManualExeption", "..\ManualExeption\ManualExeption.vcxproj", "{66EE4AFC-EE1D-4149-A6C9-AA3991BC0CA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{7B2C32B0-2413-44E5-8B2D-06E19E596D31}.Release|x64.Build.0 = Release|x64
 		{7B2C32B0-2413-44E5-8B2D-06E19E596D31}.Release|x86.ActiveCfg = Release|Win32
 		{7B2C32B0-2413-44E5-8B2D-06E19E596D31}.Release|x86.Build.0 = Release|Win32
+		{66EE4AFC-EE1D-4149-A6C9-AA3991BC0CA0}.Debug|x64.ActiveCfg = Debug|x64
+		{66EE4AFC-EE1D-4149-A6C9-AA3991BC0CA0}.Debug|x64.Build.0 = Debug|x64
+		{66EE4AFC-EE1D-4149-A6C9-AA3991BC0CA0}.Debug|x86.ActiveCfg = Debug|Win32
+		{66EE4AFC-EE1D-4149-A6C9-AA3991BC0CA0}.Debug|x86.Build.0 = Debug|Win32
+		{66EE4AFC-EE1D-4149-A6C9-AA3991BC0CA0}.Release|x64.ActiveCfg = Release|x64
+		{66EE4AFC-EE1D-4149-A6C9-AA3991BC0CA0}.Release|x64.Build.0 = Release|x64
+		{66EE4AFC-EE1D-4149-A6C9-AA3991BC0CA0}.Release|x86.ActiveCfg = Release|Win32
+		{66EE4AFC-EE1D-4149-A6C9-AA3991BC0CA0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
